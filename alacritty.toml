@@ -1,0 +1,19 @@
+
+[cursor]
+vi_mode_style = "Block"
+
+[cursor.style]
+blinking = "On"
+shape = "Beam"
+
+[font]
+size = 11
+
+[window.padding]
+x = 15
+y = 15
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/everforest_dark.toml"
+]
