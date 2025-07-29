@@ -4,8 +4,8 @@
 # Format: "command-name:AppImage-filename"
 
 APPIMAGES=(
-    "obsidian:Obsidian-1.8.9.AppImage"
-    "cursor:Cursor-0.48.9-x86_64.AppImage"
+    "obsidian:Obsidian-1.8.10.AppImage"
+    "cursor:Cursor-1.0.0-x86_64.AppImage"
     # Add more AppImages here:
     # "discord:Discord-1.0.0.AppImage"
     # "code:VSCode-1.0.0.AppImage"

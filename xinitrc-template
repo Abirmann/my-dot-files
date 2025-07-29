@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Add this to your ~/.xinitrc BEFORE launching your window manager
+# For users who start X with 'startx'
+
+# Default keyboard layout: Russian + English
+setxkbmap -layout 'ru,us' -variant ',' -option '' -option 'grp:win_space_toggle' &
+
+# Your existing window manager launch (keep your existing line)
+# exec xmonad 
